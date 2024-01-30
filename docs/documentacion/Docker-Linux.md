@@ -1,7 +1,7 @@
 
-# documentacion de instalacion
+# Doker - LINUX
 
-<!--<h1>documentacion de la instalacion</h1> -->
+<!--<h1>Manual para Scrip de instalacion</h1> -->
 
 ##  Descripción
 
