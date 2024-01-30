@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_logo=self.webpackChunkmy_logo||[]).push([[5175],{5041:o=>{o.exports=JSON.parse('{"permalink":"/logo/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
