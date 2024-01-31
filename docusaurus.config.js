@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'My Site Manual',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/logo_Senati.png',
 
@@ -16,7 +16,7 @@ const config = {
   url: 'https://NathyJulian.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/logo/',
+  baseUrl: '/caso3/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
